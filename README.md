@@ -1,2 +1,3 @@
 # myprojects
-Bunlar benim bütün projelerim; These are all my projects
+Bunlar benim bütün projelerim
+These are all my projects
