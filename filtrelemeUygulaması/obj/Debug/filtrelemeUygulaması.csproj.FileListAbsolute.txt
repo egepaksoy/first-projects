@@ -1,0 +1,10 @@
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\bin\Debug\filtrelemeUygulaması.exe.config
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\bin\Debug\filtrelemeUygulaması.exe
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\bin\Debug\filtrelemeUygulaması.pdb
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.csprojAssemblyReference.cache
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.Form1.resources
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.Properties.Resources.resources
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.csproj.GenerateResource.cache
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.exe
+C:\Users\sincanmedikal\source\repos\filtrelemeUygulaması\obj\Debug\filtrelemeUygulaması.pdb
