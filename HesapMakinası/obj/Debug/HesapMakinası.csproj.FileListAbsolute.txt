@@ -1,0 +1,10 @@
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\bin\Debug\HesapMakinası.exe.config
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\bin\Debug\HesapMakinası.exe
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\bin\Debug\HesapMakinası.pdb
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.csprojAssemblyReference.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.Form1.resources
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.Properties.Resources.resources
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.csproj.GenerateResource.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.csproj.CoreCompileInputs.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.exe
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\HesapMakinası\obj\Debug\HesapMakinası.pdb
