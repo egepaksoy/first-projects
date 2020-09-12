@@ -1,0 +1,10 @@
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\bin\Debug\Steganographer.exe.config
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\bin\Debug\Steganographer.exe
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\bin\Debug\Steganographer.pdb
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.csprojAssemblyReference.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.Form1.resources
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.Properties.Resources.resources
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.csproj.GenerateResource.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.csproj.CoreCompileInputs.cache
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.exe
+C:\Users\sincanmedikal\Desktop\Compiling\Workspace code\C#\Steganographer\obj\Debug\Steganographer.pdb
