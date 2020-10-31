@@ -1,3 +1,2 @@
-# myprojects
-Bunlar benim bütün projelerim
-These are all my projects
+# C# projects
+These are my C# projects
