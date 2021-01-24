@@ -1,2 +1,2 @@
-# C# projects
-These are my C# projects
+# C# projelerim
+C# dili ile yapmış olduğum .exe fomatlı uygulamalar.
