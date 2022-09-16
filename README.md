@@ -1,2 +1,2 @@
-# C# projelerim
-C# dili ile yapmış olduğum .exe fomatlı uygulamalar.
+# First Projects
+This repository is my first attempt at programming. C# lang used in the repository is used.
